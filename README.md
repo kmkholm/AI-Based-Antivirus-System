@@ -15,7 +15,7 @@ Get up and running with AI-Based Antivirus System in 5 minutes!
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-antivirus-system.git
+git clone gh repo clone kmkholm/AI-Based-Antivirus-System
 cd ai-antivirus-system
 ```
 
